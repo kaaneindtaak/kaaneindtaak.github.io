@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.bmwinfo, .prijzenbmw{
+    font-family: "Trebuchet MS";
+}
+
+.Audiinfo, .prijzenAudi{
+    font-family: "Trebuchet MS";
+}
+
+.Mercedesinfo, .prijzenMercedes{
+    font-family: "Trebuchet MS";
+}
+
+.jumbotron-fluid {
+    /* Gebruik background-color als u alleen de achtergrondkleur wilt aanpassen */
+    background-image: url("../img/Toy3nUp.jpg");
+    background-size: cover;
+    color: black;
+    height: 30rem;
+}
+
+.overons{
+
+    color: black;
+    font-family: "Trebuchet MS";
+}
+
+.soorten{
+
+    color: black;
+    font-family: "Trebuchet MS";
+}
+
+.bmw{
+
+    color: black;
+    font-family: "Trebuchet MS";
+}
+
+.audi{
+
+    color: black;
+    font-family: "Trebuchet MS";
+
+}
+
+.mercedes{
+
+    color: black;
+    font-family: "Trebuchet MS";
+}
+
+div.footer{
+    padding: 20px;
+    color: #efc700;
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+}
+
+
+
+p.porbleemopgelost{
+    position: relative;
+    top: -100px;
+
+}
+
+.img-small {
+    max-width : 140px;
+}
+
+iframe.mapss{
+    width:100%;
+}
